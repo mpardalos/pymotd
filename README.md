@@ -26,15 +26,18 @@ at the top can be swapped out for something else or removed entirely.
 
 ## Requirements
 
-Python 3
-colorama
-termcolor
-sh
+* Python 3
+* colorama
+* termcolor
+* sh
 
-These are also provided in requirements.txt form
+These are also provided in requirements.txt form.
 
-On Arch linux, these will be provided by the packages python-colorama, python-termcolor and
-python-sh
+On Arch linux, these will be provided by the following packages:
+
+* python-colorama 
+* python-termcolor 
+* python-sh
 
 
 
