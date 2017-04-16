@@ -31,6 +31,8 @@ colorama
 termcolor
 sh
 
+These are also provided in requirements.txt form
+
 On Arch linux, these will be provided by the packages python-colorama, python-termcolor and
 python-sh
 
