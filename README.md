@@ -1,3 +1,5 @@
+# pymotd
+
 A python Message of the Day script. Configure it through the parameters passed
 to the get_motd function in the `if __name__ == '__main__'` section at the end of
 the file, or, if you are so inclined, by importing this file and calling the
@@ -21,3 +23,17 @@ I surely do hope that's a syntax error.
 The Arch ASCII image is not hardcoded, but is rather loaded from ~/.motd_image
 (this can be changed). More messages can also be added and the fortune message
 at the top can be swapped out for something else or removed entirely. 
+
+## Requirements
+
+Python 3
+colorama
+termcolor
+sh
+
+On Arch linux, these will be provided by the packages python-colorama, python-termcolor and
+python-sh
+
+
+
+
